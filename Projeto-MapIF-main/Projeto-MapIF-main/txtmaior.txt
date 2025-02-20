@@ -1,0 +1,19 @@
+Ok, entendi! Agora me diz para onde você vai: 
+'1' para Laboratório de programação 1
+'2' para Laboratório de programação 2
+'3' para Laboratório de programação 3
+'4' para Laboratório de programação 4
+'5' para Laboratório de programação 5
+'6' para Laboratório de Informática 1
+'7' para Biblioteca
+'8' para Sala 09
+'9' para Recepção
+'10' para Gabinete Médico
+'11' para Ramo Estudantil
+'12' para Laboratório de Eletrônica Analógica
+'13' para Laboratório de Eletrônica Digital
+'14' para Refeitório
+'15' para Auditório
+'16' para Vivência
+'17' para Bloco de Aulas
+Digite para onde você quer ir: 
